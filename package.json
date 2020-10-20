@@ -30,6 +30,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "ggit@github.com:Wilsse/newman-reporter-codebeamer.git"
+    "url": "git@github.com:Wilsse/newman-reporter-codebeamer.git"
   }
 }
