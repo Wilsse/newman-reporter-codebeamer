@@ -1,7 +1,7 @@
 {
-  "name": "newman-reporter-junitfull",
-  "version": "1.1.1",
-  "description": "A Newman JUnit Reporter providing full reports (without aggregation of results)",
+  "name": "newman-reporter-codebeamer",
+  "version": "1.0.0",
+  "description": "A Newman JUnit Reporter providing reports compatible with the 'xUnit Uploader Plugin' for codeBeamer",
   "main": "index.js",
   "bundleDependencies": false,
   "dependencies": {
@@ -10,16 +10,13 @@
     "xmlbuilder": "^10.0.0"
   },
   "deprecated": false,
-  "homepage": "https://github.com/martijnvandervlag/newman-reporter-junitfull",
+  "homepage": "https://github.com/Wilsse/newman-reporter-codebeamer",
   "keywords": [
     "newman",
     "reporter",
-    "junit"
+    "junit",
+    "codebeamer"
   ],
-  "author": {
-    "name": "Martijn van der Vlag",
-    "email": "martijnvandervlag@gmail.com"
-  },
   "license": "Apache-2.0",
   "engines": {
     "node": ">=6"
@@ -33,6 +30,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/martijnvandervlag/newman-reporter-junitfull.git"
+    "url": "ggit@github.com:Wilsse/newman-reporter-codebeamer.git"
   }
 }
